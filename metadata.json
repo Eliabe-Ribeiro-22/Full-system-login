@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Auth",
+  "description": "Sistema de autenticação segura com JWT, criptografia bcrypt, validação de e-mail, 2FA (TOTP) e recuperação de senha com PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
